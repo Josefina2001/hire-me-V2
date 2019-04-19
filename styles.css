@@ -1,0 +1,16 @@
+body{
+background : url("https://www.jcpportraits.com/sites/jcpportraits.com/files/styles/portrait_background/public/background/1801/183-161_backgroundimages_fairy.jpg?itok=7pKRTVjH");
+}
+body{ 
+    width: 10px;
+    width: 50%;
+font-size: 20px;
+}
+  .claudia{
+      font-size: 50px;
+  }
+  .love, .friend, .amiga{
+     font-size:30px;
+     font-family:"Source Code Pro";
+  }
+ 
